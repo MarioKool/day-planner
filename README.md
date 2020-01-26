@@ -22,8 +22,8 @@ Supports:
   - self-cleanup (delete old tasks from local storage automatically)
    
   Future updates:
-  - addition of favicon
-  - possiblity to change day
-  - possiblity to create personalised lists
+   - addition of favicon
+   - possiblity to change day
+   - possiblity to create personalised lists
     
    
