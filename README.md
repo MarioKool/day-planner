@@ -12,18 +12,18 @@ Supports:
  - shows current day and date
  - mobile layout
  - storing tasks in local storage
- 
- Known issues:
-  - no tablet or desktop layout
-  - missing favicon
-  
- Coming soon:
-  - tablet and desktop layout
-  - self-cleanup (delete old tasks from local storage automatically)
-   
-  Future updates:
-   - addition of favicon
-   - possiblity to change day
-   - possiblity to create personalised lists
+
+Known issues:
+ - no tablet or desktop layout
+ - missing favicon
+
+Coming soon:
+ - tablet and desktop layout
+ - self-cleanup (delete old tasks from local storage automatically)
+
+ Future updates:
+  - addition of favicon
+  - possiblity to change day
+  - possiblity to create personalised lists
     
    
