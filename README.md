@@ -17,13 +17,13 @@ Supports:
   - no tablet or desktop layout
   - missing favicon
   
-  Coming soon:
-   - tablet and desktop layout
-   - self-cleanup (delete old tasks from local storage automatically)
+ Coming soon:
+  - tablet and desktop layout
+  - self-cleanup (delete old tasks from local storage automatically)
    
-   Future updates:
-    - addition of favicon
-    - possiblity to change day
-    - possiblity to create personalised lists
+  Future updates:
+  - addition of favicon
+  - possiblity to change day
+  - possiblity to create personalised lists
     
    
