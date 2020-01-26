@@ -14,3 +14,5 @@ Supports:
   
   Coming soon:
    - tablet and desktop layout
+   - self-cleanup (delete old tasks from local storage automatically)
+   
