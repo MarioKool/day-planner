@@ -1,6 +1,8 @@
 # day-planner
 
-A simple web bassed day planner application.
+A simple web bassed day planner application. 
+
+NB! Requires JavaScript to work.
 
 Supports:
  - adding, removing tasks
