@@ -1,6 +1,7 @@
 # day-planner
 
 A simple web bassed day planner application. 
+
 https://mariokool.github.io/day-planner/ 
 
 NB! Requires JavaScript to work.
