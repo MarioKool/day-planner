@@ -16,6 +16,9 @@ Supports:
 Known issues:
  - no tablet or desktop layout
  - missing favicon
+ - unable to reload on mobile (fix has been applied, will be in next version)
+ - not saving content on Android Chrome on page close (works on refresh) (partially fixed, partial cause of issue is on how Chrome works)
+ - highlights on mobile
 
 Coming soon:
  - tablet and desktop layout
